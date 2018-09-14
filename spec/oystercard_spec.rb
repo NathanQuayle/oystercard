@@ -87,7 +87,6 @@ describe Oystercard do
             exit_station: exit_station
           }]
         )
-
       end
 
     end

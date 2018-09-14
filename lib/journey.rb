@@ -20,9 +20,5 @@ class Journey
     return MINIMUM_FARE if @journey
     0
   end
-
-  def delete_entry_station
-    @entry_station = nil
-  end
-
+  
 end
